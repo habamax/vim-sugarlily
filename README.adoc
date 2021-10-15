@@ -1,0 +1,25 @@
+= Sugarlily vim colorscheme
+:experimental:
+:icons: font
+:autofit-option:
+:!source-linenums-option:
+:imagesdir: images
+
+
+== Screenshots
+
+image::https://user-images.githubusercontent.com/234774/137516245-7a793514-d8e1-4c07-aadd-ed0e24392fee.png[]
+image::https://user-images.githubusercontent.com/234774/137516327-5f5ebe31-f140-4e82-a579-432b98274ead.png[]
+image::https://user-images.githubusercontent.com/234774/137516593-82fdf006-be3f-4d53-a6fb-a6ca1498f741.png[]
+image::https://user-images.githubusercontent.com/234774/137516663-ca57caae-937e-44ac-a4df-f9cd5e766fa7.png[]
+image::https://user-images.githubusercontent.com/234774/137516828-c7d9d240-f123-4336-9e5d-d7200e8276a0.png[]
+
+
+
+== Installation
+
+Follow the instructions plugin manager of choice has.
+
+Or simply put `sugarlily.vim` into your `~/.vim/colors/` folder.
+
+
