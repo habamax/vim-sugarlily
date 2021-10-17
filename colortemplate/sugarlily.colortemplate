@@ -107,9 +107,9 @@ Underlined         color05        none           underline
 Error              color01        none
 ErrorMsg           color01        none
 ModeMsg            background     color09
-WarningMsg         color03        none
+WarningMsg         color09        none
 MoreMsg            color04        none
-Question           color03        none
+Question           color09        none
 
 Todo               color13        none           bold
 MatchParen         background     color14
