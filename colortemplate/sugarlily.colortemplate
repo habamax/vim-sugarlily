@@ -166,3 +166,7 @@ Conceal            color08        none
 Ignore             none           none
 
 Title              none           none           bold
+
+
+; No color support
+Include: _tcozero
