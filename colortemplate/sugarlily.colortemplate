@@ -42,7 +42,7 @@ Color: color15     #EEEEEE        255            15
 Color: color16     #DADADA        253            7
 
 Color: colorDiffA  #E4EEE4        194            15
-Color: colorDiffC  #E4E4E4        254            15
+Color: colorDiffC  #EEEEE4        254            15
 Color: colorDiffD  #EEE4E4        224            15
 Color: colorDiffT  #FFFFD7        230            15
 
@@ -139,7 +139,7 @@ DiffDelete         color01        none
 Variant: gui 256
 DiffChange         none           colorDiffC
 DiffAdd            none           colorDiffA
-DiffText           none           colorDiffT     underline
+DiffText           none           colorDiffT
 DiffDelete         color09        colorDiffD
 
 Variant: gui 256 16
