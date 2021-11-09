@@ -114,7 +114,7 @@ WarningMsg         color09        none
 MoreMsg            color04        none
 Question           color09        none
 
-Todo               color13        none           bold
+Todo               color13        none           reverse
 Variant: 16
 MatchParen         background     color06
 Search             foreground     color10
