@@ -39,7 +39,7 @@ Color: color14     #87AFAF        109            cyan
 Color: color07     #BCBCBC        250            grey
 Color: color15     #EEEEEE        255            white
 
-Color: color16     #DADADA        253            grey
+Color: color16     #E4E4E4        254            grey
 
 Color: colorDiffA  #E4EEE4        194            white
 Color: colorDiffC  #EEEEE4        254            white
