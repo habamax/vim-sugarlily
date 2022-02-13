@@ -40,6 +40,7 @@ Color: color07     #BCBCBC        250            grey
 Color: color15     #EEEEEE        255            white
 
 Color: color16     #E4E4E4        254            grey
+Color: colorC      #0087FF        25             blue
 
 Color: colorDiffA  #E4EEE4        194            white
 Color: colorDiffC  #EEEEE4        254            white
@@ -95,12 +96,12 @@ FoldColumn         color08        none
 Variant: 16
 CursorLine         none           none           underline
 CursorColumn       none           none           underline
-CursorLineNr       none           none           underline
+CursorLineNr       colorC         none           bold
 QuickFixLine       none           none           underline
 Variant: gui 256
 CursorLine         none           color16
 CursorColumn       none           color16
-CursorLineNr       none           color16
+CursorLineNr       colorC         none           bold
 QuickFixLine       none           color16
 Variant: gui 256 16
 SignColumn         none           none
@@ -129,7 +130,7 @@ ColorColumn        foreground     color03
 Variant: gui 256
 ColorColumn        none           colorColumn
 Variant: gui
-Cursor             background     color04
+Cursor             background     colorC
 lCursor            background     color03
 
 Variant: 16
